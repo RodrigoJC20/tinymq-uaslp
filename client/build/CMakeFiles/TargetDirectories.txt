@@ -1,0 +1,3 @@
+/Users/rodrigojimenezcordero/dev/network/asio/tinymq/client/build/CMakeFiles/tinymq_client.dir
+/Users/rodrigojimenezcordero/dev/network/asio/tinymq/client/build/CMakeFiles/edit_cache.dir
+/Users/rodrigojimenezcordero/dev/network/asio/tinymq/client/build/CMakeFiles/rebuild_cache.dir
